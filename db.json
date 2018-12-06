@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "33",
+      "firstName": "naveen",
+      "age": 30,
+      "companyId": "2"
+    },
+    {
+      "id": "53",
+      "firstName": "kishore",
+      "age": 10,
+      "companyId": "2"
+    },
+    {
+      "id": "63",
+      "firstName": "ravi",
+      "age": 90,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Lenevo"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "search"
+    }
+  ]
+}
